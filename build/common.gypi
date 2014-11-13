@@ -146,14 +146,14 @@
                         'TargetMachine': '1',
                         'AdditionalLibraryDirectories':
                         [
-                            '<(windows_sdk_path)/Lib/win8/um/x86',
+                            '<(windows_sdk_path)/Lib/winv6.3/um/x86',
                         ],
                     },
                     'VCLibrarianTool':
                     {
                         'AdditionalLibraryDirectories':
                         [
-                            '<(windows_sdk_path)/Lib/win8/um/x86',
+                            '<(windows_sdk_path)/Lib/winv6.3/um/x86',
                         ],
                     },
                 },
@@ -170,14 +170,14 @@
                         'TargetMachine': '17', # x86 - 64
                         'AdditionalLibraryDirectories':
                         [
-                            '<(windows_sdk_path)/Lib/win8/um/x64',
+                            '<(windows_sdk_path)/Lib/winv6.3/um/x64',
                         ],
                     },
                     'VCLibrarianTool':
                     {
                         'AdditionalLibraryDirectories':
                         [
-                            '<(windows_sdk_path)/Lib/win8/um/x64',
+                            '<(windows_sdk_path)/Lib/winv6.3/um/x64',
                         ],
                     },
                 },
